@@ -1,6 +1,6 @@
 # Simple-ChattyBot-by-Jetbrains
  This is a simple chat bot
-
+```
 def greet(bot_name, birth_year):
     print('Hello! My name is ' + bot_name + '.')
     print('I was created in ' + birth_year + '.')
@@ -57,3 +57,4 @@ guess_age()
 count()
 test()
 end()
+```
